@@ -1,0 +1,74 @@
+<html>
+
+<head>
+    <title>Data Visualization</title>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://d3js.org/d3.geo.projection.v0.min.js" charset="utf-8"></script>
+    <script src="http://trifacta.github.com/vega/vega.js"></script>
+    <script type="text/javascript">
+        // parse a spec and create a visualization view
+        function parse(spec) {
+            vg.parse.spec(spec, function (chart) { chart({ el: "#bar" }).update(); });
+        }
+        parse("word_freq.json");
+    </script>
+    <script type="text/javascript">
+        // parse a spec and create a visualization view
+        function parse(spec) {
+            vg.parse.spec(spec, function (chart) { chart({ el: "#freq" }).update(); });
+        }
+        parse("freq_plot.json");
+    </script>
+    <style>
+        #bar, #freq {
+            margin: 20px;
+        }
+        #map {
+            height: 600px;
+            width: 1000px;
+            margin: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="bar"></div>
+    <div id="freq"></div>
+    <div id="map"></div>
+    <script type="text/javascript">
+        // Load the tile images from OpenStreetMap
+        var mytiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        });
+        // Initialize an empty map
+        var map = L.map('map');
+        // Read the GeoJSON data with jQuery, and create a circleMarker element for each tweet
+        // Each tweet will be represented by a nice red dot
+        $.getJSON("geo_data.json", function (data) {
+            var myStyle = {
+                radius: 2,
+                fillColor: "red",
+                color: "red",
+                weight: 1,
+                opacity: 1,
+                fillOpacity: 1
+            };
+
+            var geojson = L.geoJson(data, {
+                pointToLayer: function (feature, latlng) {
+                    return L.circleMarker(latlng, myStyle);
+                }
+            });
+            geojson.addTo(map)
+        });
+        // Add the tiles to the map, and initialise the view in the middle of Europe
+        map.addLayer(mytiles).setView([40, -97], 5);
+    </script>
+</body>
+
+</html>

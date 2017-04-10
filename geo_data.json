@@ -1,0 +1,541 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7058,
+                    40.4203
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Final1GHVIP5\n\u2489 #themasters\n\u248a #CuartoMilenio\n\u248b Westbrook\n\u248c Blumettras\n\n2017/4/10 05:18 CEST #trndnl https://t.co/K5DFqqcseW",
+                "created_at": "Mon Apr 10 03:19:58 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1329,
+                    19.4319
+                ]
+            },
+            "properties": {
+                "text": "\u248d Monumento a la Revoluci\u00f3n\n\u248e Hirving Lozano\n\u248f #themasters\n\u2490 Bugambilias\n\u2491 Russell Westbrook\n\n2017/4/9 22:13 CDT https://t.co/IN7801UqsL",
+                "created_at": "Mon Apr 10 03:19:59 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1271,
+                    51.5063
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #themasters\n\u2489 #LineofDuty\n\u248a #KUWTK\n\u248b Russell Westbrook\n\u248c #Homeland\n\n2017/4/10 04:13 BST #trndnl https://t.co/do7Hdxwcnc",
+                "created_at": "Mon Apr 10 03:20:01 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.377,
+                    52.5161
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #annewill\n\u2489 #themasters\n\u248a #NALCS\n\u248b #Kerber\n\u248c #Tatort\n\n2017/4/10 05:13 CEST #trndnl https://t.co/p8qpEIM5hj",
+                "created_at": "Mon Apr 10 03:20:03 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4958,
+                    41.9031
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #themasters\n\u2489 #biancoenero\n\u248a #LazioNapoli\n\u248b #CrotoneInter\n\u248c #amici16\n\n2017/4/10 05:18 CEST #trndnl https://t.co/1z2nx2qb8e",
+                "created_at": "Mon Apr 10 03:20:06 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6742,
+                    9.0846
+                ]
+            },
+            "properties": {
+                "text": "\u2488 Skales\n\u2489 Funmi Iyanda\n\u248a Cavs\n\u248b #themasters\n\u248c #PushPlay\n\n2017/4/10 04:13 WAT #trndnl https://t.co/RztqeSY2ZJ",
+                "created_at": "Mon Apr 10 03:20:12 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3412,
+                    48.8569
+                ]
+            },
+            "properties": {
+                "text": "\u2488 Westbrook\n\u2489 #TheMasters\n\u248a Cavs\n\u248b #FELA\n\u248c #PSGEAG\n\n2017/4/10 05:13 CEST #trndnl https://t.co/iQIQ3mQZoL",
+                "created_at": "Mon Apr 10 03:20:13 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.677,
+                    -28.4832
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #TheMasters\n\u2489 #BBNaija\n\u248a #DateMyFamily\n\u248b #NedbankCup\n\u248c #KathradaMemorial\n\n2017/4/10 05:13 SAST #trndnl https://t.co/I3Pws3WfVi",
+                "created_at": "Mon Apr 10 03:20:14 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4445,
+                    46.813
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #TheMasters\n\u2489 #FCBYB\n\u248a #Tatort\n\u248b #ParisRoubaix\n\u248c #ArgentinaGP\n\n2017/4/10 05:13 CEST #trndnl https://t.co/WHwtAM2j31",
+                "created_at": "Mon Apr 10 03:20:19 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #themasters\n\u2489 #RHOA\n\u248a #Homeland\n\u248b #CaseyAnthony\n\u248c #IntoTheBadlands\n\n2017/4/9 22:13 CDT #trndnl https://t.co/IvleifByXY",
+                "created_at": "Mon Apr 10 03:20:22 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.80656,
+                    35.9752
+                ]
+            },
+            "properties": {
+                "text": "Today CPR means celebrate, party and rejoice! #themasters #cpr #aed @ https://t.co/SFYoaX5GRF https://t.co/1Aq9PKUrXp",
+                "created_at": "Mon Apr 10 03:31:42 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.02222222,
+                    33.5
+                ]
+            },
+            "properties": {
+                "text": "Con el gran cascarrabias abullrich \nDicen que yo no sonr\u00edo !!!!  themasters @ Augusta National\u2026 https://t.co/PXhVbpejJ5",
+                "created_at": "Mon Apr 10 03:35:35 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.02222222,
+                    33.5
+                ]
+            },
+            "properties": {
+                "text": "4 years ago ... #onehappycamper #2013Masters #adamscott #likenoother #augusta #themasters @\u2026 https://t.co/bqrEEvkARm",
+                "created_at": "Mon Apr 10 03:36:34 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7058,
+                    40.4203
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Final1GHVIP5\n\u2489 #themasters\n\u248a #CuartoMilenio\n\u248b Westbrook\n\u248c Blumettras\n\n2017/4/10 05:38 CEST #trndnl https://t.co/K5DFqqcseW",
+                "created_at": "Mon Apr 10 03:39:57 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1271,
+                    51.5063
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #themasters\n\u2489 #LineofDuty\n\u248a #KUWTK\n\u248b Russell Westbrook\n\u248c #WorstThingsEverInvented\n\n2017/4/10 04:33 BST #trndnl https://t.co/do7Hdxwcnc",
+                "created_at": "Mon Apr 10 03:40:00 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.377,
+                    52.5161
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #annewill\n\u2489 #themasters\n\u248a #NALCS\n\u248b #Kerber\n\u248c #Tatort\n\n2017/4/10 05:33 CEST #trndnl https://t.co/p8qpEIM5hj",
+                "created_at": "Mon Apr 10 03:40:02 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4958,
+                    41.9031
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #themasters\n\u2489 #biancoenero\n\u248a #LazioNapoli\n\u248b #CrotoneInter\n\u248c #amici16\n\n2017/4/10 05:33 CEST #trndnl https://t.co/1z2nx2qb8e",
+                "created_at": "Mon Apr 10 03:40:05 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6742,
+                    9.0846
+                ]
+            },
+            "properties": {
+                "text": "\u2488 Skales\n\u2489 Funmi Iyanda\n\u248a Cavs\n\u248b #themasters\n\u248c #PushPlay\n\n2017/4/10 04:33 WAT #trndnl https://t.co/RztqeSY2ZJ",
+                "created_at": "Mon Apr 10 03:40:11 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3412,
+                    48.8569
+                ]
+            },
+            "properties": {
+                "text": "\u2488 Westbrook\n\u2489 #TheMasters\n\u248a Cavs\n\u248b #FELA\n\u248c #PSGEAG\n\n2017/4/10 05:33 CEST #trndnl https://t.co/iQIQ3mQZoL",
+                "created_at": "Mon Apr 10 03:40:12 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.677,
+                    -28.4832
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #TheMasters\n\u2489 #BBNaija\n\u248a #DateMyFamily\n\u248b #NedbankCup\n\u248c #KathradaMemorial\n\n2017/4/10 05:33 SAST #trndnl https://t.co/I3Pws3WfVi",
+                "created_at": "Mon Apr 10 03:40:13 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4445,
+                    46.813
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #TheMasters\n\u2489 #FCBYB\n\u248a #Tatort\n\u248b #ParisRoubaix\n\u248c #ArgentinaGP\n\n2017/4/10 05:38 CEST #trndnl https://t.co/WHwtAM2j31",
+                "created_at": "Mon Apr 10 03:40:18 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #themasters\n\u2489 #RHOA\n\u248a #Homeland\n\u248b #CaseyAnthony\n\u248c #IntoTheBadlands\n\n2017/4/9 22:38 CDT #trndnl https://t.co/IvleifByXY",
+                "created_at": "Mon Apr 10 03:40:21 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7948,
+                    21.7866
+                ]
+            },
+            "properties": {
+                "text": "#themasters just started trending with 287358 tweets. More trends at https://t.co/LZ0lSnKin9 #trndnl",
+                "created_at": "Mon Apr 10 03:42:59 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1271,
+                    51.5063
+                ]
+            },
+            "properties": {
+                "text": "The hashtag #themasters took the 3rd place in the Top20 of London's Trends for Sunday 9: https://t.co/v8I7zOErU1 #trndnl",
+                "created_at": "Mon Apr 10 03:43:26 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.17986794,
+                    -22.91000096
+                ]
+            },
+            "properties": {
+                "text": "Congrats @thesergiogarcia on winning the 2017 themasters! @ Rio de Janeiro, Brazil https://t.co/GYfAcIinvz",
+                "created_at": "Mon Apr 10 03:59:46 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7058,
+                    40.4203
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Final1GHVIP5\n\u2489 #themasters\n\u248a Westbrook\n\u248b Blumettras\n\u248c Nega\n\n2017/4/10 05:58 CEST #trndnl https://t.co/K5DFqqcseW",
+                "created_at": "Mon Apr 10 03:59:58 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1271,
+                    51.5063
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #themasters\n\u2489 #KUWTK\n\u248a #WorstThingsEverInvented\n\u248b Great Barrier Reef\n\u248c Russell Westbrook\n\n2017/4/10 04:53 BST https://t.co/do7Hdxwcnc",
+                "created_at": "Mon Apr 10 04:00:00 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.377,
+                    52.5161
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #annewill\n\u2489 #themasters\n\u248a #NALCS\n\u248b #Kerber\n\u248c #Tatort\n\n2017/4/10 05:58 CEST #trndnl https://t.co/p8qpEIM5hj",
+                "created_at": "Mon Apr 10 04:00:02 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4958,
+                    41.9031
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #themasters\n\u2489 #biancoenero\n\u248a #LazioNapoli\n\u248b #CrotoneInter\n\u248c #amici16\n\n2017/4/10 05:53 CEST #trndnl https://t.co/1z2nx2qb8e",
+                "created_at": "Mon Apr 10 04:00:05 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6742,
+                    9.0846
+                ]
+            },
+            "properties": {
+                "text": "\u2488 Skales\n\u2489 Funmi Iyanda\n\u248a Cavs\n\u248b #themasters\n\u248c #PushPlay\n\n2017/4/10 04:53 WAT #trndnl https://t.co/RztqeSY2ZJ",
+                "created_at": "Mon Apr 10 04:00:11 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3412,
+                    48.8569
+                ]
+            },
+            "properties": {
+                "text": "\u2488 Westbrook\n\u2489 #TheMasters\n\u248a Cavs\n\u248b #FELA\n\u248c #PSGEAG\n\n2017/4/10 05:53 CEST #trndnl https://t.co/iQIQ3mQZoL",
+                "created_at": "Mon Apr 10 04:00:12 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.677,
+                    -28.4832
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #DateMyFamily\n\u2489 #NedbankCup\n\u248a #TheMasters\n\u248b #KathradaMemorial\n\u248c #BBNaija\n\n2017/4/10 05:58 SAST #trndnl https://t.co/I3Pws3WfVi",
+                "created_at": "Mon Apr 10 04:00:13 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4445,
+                    46.813
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #TheMasters\n\u2489 #FCBYB\n\u248a #Tatort\n\u248b #ParisRoubaix\n\u248c #ArgentinaGP\n\n2017/4/10 05:53 CEST #trndnl https://t.co/WHwtAM2j31",
+                "created_at": "Mon Apr 10 04:00:18 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.5995785,
+                    24.47829694
+                ]
+            },
+            "properties": {
+                "text": "A BIG Congratulations to @thesergiogarcia for his themasters victory.   Couldn't be more pleased\u2026 https://t.co/zOUiz8j46k",
+                "created_at": "Mon Apr 10 04:00:32 +0000 2017"
+            }
+        }
+    ]
+}{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3704173,
+                    34.08363487
+                ]
+            },
+            "properties": {
+                "text": "Happy #nationalunicornday #duffscakemix \ud83e\udd84\ud83c\udf82\ud83e\udd84 @ Duff's Cakemix https://t.co/GGUU4cUfor",
+                "created_at": "Sun Apr 09 21:47:19 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.81329403,
+                    32.85131615
+                ]
+            },
+            "properties": {
+                "text": "Celebrating and wishing everyone a happy #nationalunicornday #ourholiday #sparkle #dream\u2026 https://t.co/VkzyJgrYZo",
+                "created_at": "Sun Apr 09 21:51:25 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.81329403,
+                    32.85131615
+                ]
+            },
+            "properties": {
+                "text": "Celebrating #nationalunicornday and celebrating the differences in each of us that makes the\u2026 https://t.co/1YzWIOLDaV",
+                "created_at": "Sun Apr 09 21:51:36 +0000 2017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.94416,
+                    56.12209
+                ]
+            },
+            "properties": {
+                "text": "For #NationalUnicornDay. Taken at Stirling Castle, Scotland, August\u2026 https://t.co/gLXLYdVcd4",
+                "created_at": "Sun Apr 09 21:56:03 +0000 2017"
+            }
+        }
+    ]
+}
