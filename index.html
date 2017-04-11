@@ -51,12 +51,12 @@
         // Each tweet will be represented by a nice red dot
         $.getJSON("geo_data.json", function (data) {
             var myStyle = {
-                radius: 2,
-                fillColor: "red",
-                color: "red",
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 1
+//                radius: 5,
+//                fillColor: "red",
+//                color: "yellow",
+//                weight: 1,
+//                opacity: 1,
+//                fillOpacity: 0.5
             };
 
             var geojson = L.geoJson(data, {
@@ -67,7 +67,7 @@
             geojson.addTo(map)
         });
         // Add the tiles to the map, and initialise the view in the middle of Europe
-        map.addLayer(mytiles).setView([40, -97], 5);
+        map.addLayer(mytiles).setView([40, -97], 4.0);
     </script>
 </body>
 

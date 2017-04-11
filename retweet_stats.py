@@ -6,12 +6,12 @@ __author__ = 'Louis'
 
 import json
 
-k = 5  # Number of top tweets to find
+k = 20  # Number of top tweets to find
 n = 1  # Minimum number of retweets allowed for list
-file_in = 'themasters.json'
+file_in = 'accident.json'
 
 
-tweets = {}
+tweets = {}         # <author_id, retweeted_times>
 fh = open(file_in, 'r')
 for line in fh:
     try:
